@@ -1,0 +1,193 @@
+{
+  "game":
+  {
+    "display_name": "🕹️ GAME", 
+    "goals": 
+    {
+      "title": "OBJETIVOS",
+      "desc": "En este juego, tus objetivos son:\n • Reunir a todos los jugadores\n • Conseguir a los mejores jugadores\n • Ser el usuario con más prestigio\n • Ser el usuario con más dinero"
+    },
+    "prefix": 
+    {
+      "title": "PREFIJO",
+      "desc": "El prefijo del bot es `=`, todos los comandos deben comenzar con `=`"
+    },
+    "synthax": 
+    {
+      "title": "SINTAXIS",
+      "desc": "```=comando (argumento obligatorio) [argumento opcional]```"
+    },
+    "help": 
+    {
+      "title": "=help [categoría|comando]",
+      "desc": "Obtén por DM una ayuda general, sobre una categoría o sobre un comando especificado"
+    },
+    "start": 
+    {
+      "title": "=start",
+      "desc": "Empieza a jugar :)"
+    }
+  },
+  "claims": 
+  {
+    "display_name": "⌛ CLAIMS",
+    "spin": 
+    {
+      "title": "=spin",
+      "desc": "Consigue una carta aleatoria. :stopwatch: Cooldown: `30 min`."
+    },
+    "daily": 
+    {
+      "title": "=daily",
+      "desc": "Otorga una cantidad aleatoria de dinero. :stopwatch: Cooldown : `24 h.`"
+    }
+  },
+  "user_info":
+  {
+    "display_name": "👥 CUENTA",
+    "inventory": 
+    {
+      "title": "=inventory [@usuario] | alias: inv",
+      "desc": "Muestra tu inventario o el de otro usuario."
+    },
+    "balance": 
+    {
+      "title": "=balance [@usuario] | alias: bal",
+      "desc": "Muestra tu cantidad de dinero o la de otro usuario."
+    },
+    "points": 
+    {
+      "title": "=points [@usuario] | alias: pts",
+      "desc": "Muestra tus puntos de prestigio o los de otro usuario."
+    }
+  },
+  "leaderboards":
+  {
+    "display_name": "🏆 TABLA DE CLASIFICACIÓN",
+    "balancetop": 
+    {
+      "title": "balancetop | alias: baltop",
+      "desc": "Muestra el ranking de usuarios con más dinero."
+    },
+    "pointstop": 
+    {
+      "title": "pointstop | alias: ptop",
+      "desc": "Muestra el ranking de usuarios con más puntos de prestigio."
+    }
+  },
+  "game_info":
+  {
+    "display_name": "📜 INFO. DEL JUEGO",
+    "items": 
+    {
+      "title": "items",
+      "desc": "Envía la lista de cartas a tu DM."
+    },
+  "powers": 
+    {
+      "title": "powers",
+      "desc": "Envía la lista de supertécnicas a tu DM."
+    },
+  "statistics": 
+    {
+      "title": "statistics | alias: stats",
+      "desc": "Muestra algunas estadisticas sobre el bot."
+    }
+  },
+  "market":
+  {
+    "display_name": "⚖️ MERCADO DE FICHAJES",
+    "market": 
+    {
+      "title": "market",
+      "desc": "Muestra el mercado de fichajes."
+    },
+  "sell": 
+    {
+      "title": "sell (nombre japonés del jugador) (ID) (precio)",
+      "desc": "Pon en venta al jugador especificado a un precio determinado."
+    },
+  "buy": 
+    {
+      "title": "buy (número de la oferta)",
+      "desc": "Compra el jugador de la oferta."
+    },
+  "remove_offer": 
+    {
+      "title": "remove_offer (número de la oferta)",
+      "desc": "Cancela la venta del jugador de la oferta."
+    }
+  },
+  "trade":
+  {
+    "display_name": "💱 INTERCAMBIOS",
+    "trade": 
+    {
+      "title": "trade (@usuario)",
+      "desc": "Inicia un intercambio con el usuario mencionado."
+    },
+    "pay": 
+    {
+      "title": "pay (@usuario) (cantidad)",
+      "desc": "Da la cantidad especificada al usuario mencionado."
+    },
+    "give": 
+    {
+      "title": "give (@usuario) (nombre japonés del jugador) (float item)",
+      "desc": "Proporciona el jugador especificado al usuario mencionado."
+    }
+  },
+  "gambling": 
+  {
+    "display_name": "🎲 CASINO",
+    "flip": 
+    {
+      "title": "flip (cantidad)",
+      "desc": "CARA O CRUZ: 50% de posibilidades de ganar 2 veces la cantidad apostada y 50% de posibilidades de perder."
+    },
+    "bet": 
+    {
+      "title": "bet (cantidad) (posibilidad-X)",
+      "desc": "APUESTA: 1 oportunidad de X de ganar X veces la apuesta, X - 1 oportunidad de X de perder la apuesta."
+    }
+  },
+  "admin":
+  {
+    "display_name": "🛠️ ADMIN",
+    "off": 
+    {
+      "title": "off",
+      "desc": "Desconecta el bot."
+    },
+   "reboot":
+    {
+      "title": "reboot",
+      "desc": "Reinicia el bot."
+    },
+    "reload_cog":
+    {
+      "title": "reload_cog (nombre del cog)",
+      "desc": "Reinicia un cog en específico."
+    },
+    "give":
+    {
+      "title": "give (@usuario) (nombre japonés del jugador) (ID)",
+      "desc": "Da el jugador especificado a ese usuario."
+    },
+    "credit": 
+    {
+      "title": "credit (@usuario) (cantidad)",
+      "desc": "Aumenta el dinero de ese usuario por la cantidad especificada."
+    },
+    "reset":
+    {
+      "title": "reset (@usuario)",
+      "desc": "Elimina la cuenta del usuario especificado."
+    },
+    "skip":
+    {
+      "title": "skip (@usuario) (cooldown)",
+      "desc": "Pasa el cooldown especificado para ese usuario."
+    }
+  }
+}

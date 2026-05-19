@@ -1,0 +1,37 @@
+{
+   "mano_celestial": {
+      "name": "MANO CELESTIAL",
+      "desc": "Mark Evans (parada)",
+      "url": "https://thumbs.gfycat.com/JitteryUnluckyBlobfish-size_restricted.gif"
+   },
+   "puno_de_furia":{
+      "name": "PUÑO DE FURIA",
+      "desc": "Mark Evans (parada)",
+      "url": "https://media.tenor.com/KkTdgJaSBnAAAAAC/inazuma-eleven-ina11.gif"
+   },
+   "tornado_de_fuego": {
+      "name": "TORNADO DE FUEGO",
+      "desc": "Axel Blaze (tiro)",
+      "url": "https://media.tenor.com/DHMBdIuY5qIAAAAd/inazuma-eleven-inazuma.gif"
+   },
+   "tormenta_de_fuego":{
+      "name": "TORMENTA DE FUEGO",
+      "desc": "Axel Blaze (tiro)",
+      "url": "https://media.tenor.com/RRry12aF1GYAAAAd/inazuma-inazuma-eleven.gif"
+   },
+   "ventisca_eterna": {
+      "name": "VENTISCA ETERNA",
+      "desc": "Shawn Froste (tiro)",
+      "url": "https://thumbs.gfycat.com/DeafeningNecessaryCuttlefish-max-1mb.gif"
+   },
+   "el_muro": {
+      "name": "EL MURO",
+      "desc": "Jack Wallside (defensa)",
+      "url": "https://media.tenor.com/Ck0NY9qEAVAAAAAC/inazuma-eleven-ina11.gif"
+   },
+   "pinguino_emperador_2": {
+      "name": "PINGÜINO EMPERADOR NÚMERO 2",
+      "desc": "Royal Academy (tiro encadenado)",
+      "url": "https://media.tenor.com/WNGXv7_mAZEAAAAd/emperor-penguin-ie11.gif"
+   }
+}

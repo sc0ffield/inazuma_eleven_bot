@@ -1,0 +1,189 @@
+{
+   "441300238230224896": {
+      "balance": 430,
+      "items": [
+         {
+            "id": "larry_lyre",
+            "float": 0.21,
+            "points": 1
+         },
+         {
+            "id": "arion_sherwind",
+            "float": 0.764,
+            "points": 25
+         },
+         {
+            "id": "acker_reese",
+            "float": 0.715,
+            "points": 25
+         },
+         {
+            "id": "gazelle",
+            "float": 0.091,
+            "points": 500
+         },
+         {
+            "id": "tyler_murdock",
+            "float": 0.007,
+            "points": 250
+         },
+         {
+            "id": "joseph_king",
+            "float": 0.025,
+            "points": 500
+         },
+         {
+            "id": "kiko_calavento",
+            "float": 0.554,
+            "points": 5
+         },
+         {
+            "id": "jack_wallside",
+            "float": 0.425,
+            "points": 25
+         },
+         {
+            "id": "aitor_cazador",
+            "float": 0.177,
+            "points": 15.0
+         },
+         {
+            "id": "samguk_han",
+            "float": 0.035,
+            "points": 50
+         },
+         {
+            "id": "elliot_ember",
+            "float": 0.474,
+            "points": 100
+         },
+         {
+            "id": "gamma",
+            "float": 0.603,
+            "points": 25
+         },
+         {
+            "id": "caesar_pike",
+            "float": 0.77,
+            "points": 1
+         },
+         {
+            "id": "fei_rune",
+            "float": 0.237,
+            "points": 25
+         },
+         {
+            "id": "oliver_golightly",
+            "float": 0.686,
+            "points": 1
+         },
+         {
+            "id": "bellatrix",
+            "float": 0.288,
+            "points": 5
+         },
+         {
+            "id": "caleb_stonewall",
+            "float": 0.891,
+            "points": 25
+         },
+         {
+            "id": "aiden_froste",
+            "float": 0.505,
+            "points": 100
+         },
+         {
+            "id": "kiko_calavento",
+            "float": 0.308,
+            "points": 5
+         },
+         {
+            "id": "jimmy_nigh",
+            "float": 0.519,
+            "points": 1
+         }
+      ],
+      "packs": {},
+      "powers": [],
+      "shares": {},
+      "shield_active": false
+   },
+   "475028793837486081": {
+      "balance": 0,
+      "items": [
+         {
+            "id": "elliot_ember",
+            "float": 0.911,
+            "points": 100
+         },
+         {
+            "id": "cesar_montalban",
+            "float": 0.546,
+            "points": 1
+         },
+         {
+            "id": "caleb_stonewall",
+            "float": 0.464,
+            "points": 25
+         },
+         {
+            "id": "sandra_fischer",
+            "float": 0.578,
+            "points": 5
+         },
+         {
+            "id": "cerise_blossom",
+            "float": 0.363,
+            "points": 5
+         },
+         {
+            "id": "gazelle",
+            "float": 0.615,
+            "points": 100
+         },
+         {
+            "id": "gazelle",
+            "float": 0.485,
+            "points": 100
+         }
+      ],
+      "packs": {},
+      "powers": [],
+      "shares": {},
+      "shield_active": false
+   },
+   "459758881413791744": {
+      "balance": 0,
+      "items": [
+         {
+            "id": "trevor_cook",
+            "float": 0.656,
+            "points": 5
+         },
+         {
+            "id": "sonny_wright",
+            "float": 0.842,
+            "points": 25
+         },
+         {
+            "id": "tezcat",
+            "float": 0.591,
+            "points": 100
+         },
+         {
+            "id": "tezcat",
+            "float": 0.018,
+            "points": 500
+         },
+         {
+            "id": "arion_sherwind",
+            "float": 0.328,
+            "points": 25
+         }
+      ],
+      "packs": {},
+      "powers": [],
+      "shares": {},
+      "shield_active": false
+   }
+}

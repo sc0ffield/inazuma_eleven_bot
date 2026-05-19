@@ -1,0 +1,18 @@
+{
+  "missing_item": {"title": "JUGADOR INCORRECTO", "txt": "No tienes este jugador o es incorrecto."},
+  "missing_money": {"title": "INSUFICIENTES MONEDAS", "txt": "Las monedas introducidas son incorrectas o superiores al valor en tu cartera."},
+  "missing_power": {"title": "SUPERTÉCNICA INCORRECTA", "txt": "No tienes esta supertécnica o es incorrecta."},
+  "missing_player": {"title": "USUARIO INCORRECTO", "txt": "El usuario mencionado no posee una cuenta o el nombre es incorrecto."},
+  "missing_account": {"title": "CUENTA INCORRECTA", "txt":"No se ha encontrado la cuenta! Usa `=start` para crear una."},
+  "missing_permissions": {"title": "PERMISOS INSUFICIENTES", "txt": "No posees suficientes permisos para ejecutar esta acción."},
+  "missing_share": {"title": "ACCIÓN INCORRECTA", "txt": "No puedes realizar esta acción."},
+  "account_existing": {"title": "TU CUENTA YA EXISTE :/", "txt": "Esta acción es imposible, ya tienes una cuenta."},
+  "cooldown_spin": {"title": "SPIN COOLDOWN", "txt": "Tienes que esperar un poco más para poder repetir la acción."},
+  "cooldown_daily": {"title": "DAILY COOLDOWN", "txt": "Tu cooldown diario no ha terminado."},
+  "invalid_synthax": {"title": "SINTAXIS INVÁLIDA", "txt": "La sintaxis de tu comando es incorrecta, inténtalo de nuevo o consulta la guía con `=help`"},
+  "timeout": {"title": "TIMEOUT", "txt": "Se agotó el tiempo de espera, tardaste demasiado en responder."},
+  "self_trade": {"title": "AUTO-TRADE", "txt": "Has intentado hacer una acción imposible: hacer un intercambio contigo mismo."},
+  "trade_error": {"title": "INTERCAMBIO ERRÓNEO", "txt": "Ha habido un error en el proceso del intercambio."},
+  "canceled": {"title": "ACCIÓN CANCELADA", "txt": "Ninguno de los datos se han guardado."},
+  "incorrect_value": {"title": "VALOR INCORRECTO", "txt": "El valor que ingresó no es válido."}
+}

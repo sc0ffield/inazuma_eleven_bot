@@ -1,0 +1,467 @@
+{
+   "mark_evans": {
+      "name": "Mark Evans",
+      "jp": "Mamoru Endou",
+      "from": "Raimon",
+      "description": "GK (Earth)",
+      "tier": "S+",
+      "url": "https://i.pinimg.com/originals/ac/62/df/ac62dfce250b0fc494fb7979da7cfb13.png"
+   },
+   "axel_blaze": {
+      "name": "Axel Blaze",
+      "jp": "Shuuya Gouenji",
+      "from": "Raimon",
+      "description": "FW (Fire)",
+      "tier": "S+",
+      "url": "https://i.pinimg.com/originals/c0/2b/35/c02b35a9033de0fca68c6e4798cd38fa.png"
+   },
+   "jude_sharp": {
+      "name": "Jude Sharp",
+      "jp": "Yuto Kido",
+      "from": "Raimon",
+      "description": "CM (Wind)",
+      "tier": "S-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/61/DB02-58.png/revision/latest/scale-to-width-down/250?cb=20190118154310"
+   },
+   "nathan_swift": {
+      "name": "Nathan Swift",
+      "jp": "Ichirota Kazemaru",
+      "from": "Raimon",
+      "description": "CM (Wind)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/originals/10/30/51/103051ad3760261e4c75581d31fa173e.png"
+   },
+   "jack_wallside": {
+      "name": "Jack Wallside",
+      "jp": "Heigoro Kabeyama",
+      "from": "Raimon",
+      "description": "DF (Earth)",
+      "tier": "A",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/AS05-24.png/revision/latest/scale-to-width-down/250?cb=20200716111443"
+   },
+   "kevin_dragonfly": {
+      "name": "Kevin Dragonfly",
+      "jp": "Ryugo Someoka",
+      "from": "Raimon",
+      "description": "FW (Wood)",
+      "tier": "A",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f4/AS03-21.png/revision/latest/scale-to-width-down/250?cb=20191213111716"
+   },
+   "erik_eagle": {
+      "name": "Erik Eagle",
+      "jp": "Kazuya Ichinose",
+      "from": "Raimon",
+      "description": "CM (Wood)",
+      "tier": "A-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7a/AS02-73.png/revision/latest/scale-to-width-down/250?cb=20191010032700"
+   },
+   "william_glass": {
+      "name": "William Glass",
+      "jp": "Kakeru Megane",
+      "from": "Raimon",
+      "description": "FW (Wood)",
+      "tier": "D-",
+      "url": "https://i.pinimg.com/originals/27/47/d7/2747d77c7eab41e321a1c88b7a604f2e.png"
+   },
+   "joseph_king": {
+      "name": "Joseph King",
+      "jp": "Kojiro Genda",
+      "from": "Royal Academy",
+      "description": "GK (Fire)",
+      "tier": "S-",
+      "url": "https://i.pinimg.com/originals/eb/e5/de/ebe5de03cc1693716cb75b09e853afd9.png"
+   },
+   "caleb_stonewall": {
+      "name": "Caleb Stonewall",
+      "jp": "Akio Fudo",
+      "from": "Royal Academy",
+      "description": "CM (Fire)",
+      "tier": "A+",
+      "url": "https://i.pinimg.com/originals/02/aa/7d/02aa7d4d42386af388076f33726c9713.png"
+   },
+   "david_samford": {
+      "name": "David Samford",
+      "jp":"Jiro Sakuma",
+      "from": "Royal Academy",
+      "description": "FW (Wood)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/originals/c8/9f/40/c89f401b46a35d1f8a4196070636a948.png"
+   },
+   "aiden_froste": {
+      "name": "Aiden Froste",
+      "jp": "Atsuya Fubuki",
+      "from": "Instituto Alpino",
+      "description": "FW (Fire)",
+      "tier": "S-",
+      "url": "https://64.media.tumblr.com/29a044e20b6891cc1a3472bdffff173b/tumblr_pnjdowqXb01rkv9cno2_1280.png"
+   },
+   "shawn_froste": {
+      "name": "Shawn Froste",
+      "jp": "Shiro Fubuki",
+      "from": "Instituto Alpino",
+      "description": "FW (Wind)",
+      "tier": "A+",
+      "url": "https://64.media.tumblr.com/dbff7c64f813deaa4be0f052a8229616/tumblr_pnjdowqXb01rkv9cno1_1280.png"
+   },
+   "byron_love": {
+      "name": "Byron Love",
+      "jp": "Terumi Afuro",
+      "from": "Instituto Zeus",
+      "description": "CM (Wood)",
+      "tier": "S",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/Aphrodi_AC0_UR.png/revision/latest/scale-to-width-down/250?cb=20181214235650"
+   },
+   "hurley_kane": {
+      "name": "Hurley Kane",
+      "jp": "Josuke Tsunami",
+      "from": "Instituto Mary Times",
+      "description": "DF (Wind)",
+      "tier": "A",
+      "url": "https://pbs.twimg.com/media/EJZpqDdWkAAvY-h.jpg"
+   },
+   "torch": {
+      "name": "Torch (Claude Beacons)",
+      "jp": "Haruya Nagumo",
+      "from": "Academia Alius (Prominence)",
+      "description": "FW (Fire)",
+      "tier": "S+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a9/AS04-22.png/revision/latest/scale-to-width-down/250?cb=20200319011514"
+   },
+   "xavier_foster": {
+      "name": "Xavier Foster",
+      "jp": "Hiroto Kiyama",
+      "from": "Academia Alius (Génesis)",
+      "description": "FW (Fire)",
+      "tier": "S",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/65/AS05-69.png/revision/latest/scale-to-width-down/250?cb=20200709015057"
+   },
+   "gazelle": {
+      "name": "Gazelle (Bryce Whitingale)",
+      "jp": "Fusuke Suzuno",
+      "from": "Academia Alius (Diamond)",
+      "description": "FW (Wind)",
+      "tier": "S-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/AS05-70.png/revision/latest/scale-to-width-down/250?cb=20200709014838"
+   },
+   "jordan_greenway": {
+      "name": "Jordan Greenway",
+      "jp": "Ryuji Midorikawa",
+      "from": "Academia Alius (Tormenta de Géminis)",
+      "description": "CM (Wood)",
+      "tier": "A-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8d/AS03-19.png/revision/latest/scale-to-width-down/250?cb=20191213111715"
+   },
+   "bellatrix": {
+      "name": "Bellatrix (Isabelle Trick)",
+      "jp": "Reina Yagami",
+      "from": "Academia Alius (Génesis)",
+      "description": "CM (Wind)",
+      "tier": "C",
+      "url": "https://static.wikia.nocookie.net/inazuma/images/1/14/EP-03-034.png/revision/latest/scale-to-width-down/250?cb=20180914130846&path-prefix=es"
+   },
+   "arion_sherwind": {
+      "name": "Arion Shwerwind",
+      "jp": "Tenma Matsukaze",
+      "from": "Raimon (Go)",
+      "description": "CM (Wind)",
+      "tier": "A+",
+      "url": "https://pbs.twimg.com/media/ELBSMEIXkAAfwxw.jpg"
+   },
+   "victor_blade": {
+      "name": "Victor Blade",
+      "jp": "Kyosuke Tsurugi",
+      "from": "Raimon (Go)",
+      "description": "FW (Fire)",
+      "tier": "A+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c1/AS01-62.png/revision/latest/scale-to-width-down/250?cb=20190808014139"
+   },
+   "riccardo_di_rigo": {
+      "name": "Riccardo Di Rigo",
+      "jp": "Takuto Shindo",
+      "from": "Raimon (Go)",
+      "description": "CM (Wood)",
+      "tier": "A",
+      "url": "https://pbs.twimg.com/media/EJZpo0iXsAI9h8S.jpg"
+   },
+   "gabriel_garcia": {
+      "name": "Gabriel García",
+      "jp": "Ranmaru Kirino",
+      "from": "Raimon (Go)",
+      "description": "DF (Wood)",
+      "tier": "A",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fe/AS05-54.png/revision/latest/scale-to-width-down/250?cb=20200702025945"
+   },
+   "jp": {
+      "name": "JP (Jean-Pierre Lapin)",
+      "jp": "Shinsuke Nishizono",
+      "from": "Raimon (Go)",
+      "description": "GK (Earth)",
+      "tier": "B+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/83/Shinsuke_TCG_IG-09-024.PNG/revision/latest?cb=20130901150809&path-prefix=vi"
+   },
+   "aitor_cazador": {
+      "name": "Aitor Cazador",
+      "jp": "Masaki Kariya",
+      "from": "Raimon (Go)",
+      "description": "DF (Wood)",
+      "tier": "B-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven-tcg/images/a/ac/Kariya_4.jpg/revision/latest?cb=20130605072528"
+   },
+   "samguk_han": {
+      "name": "Samguk Han",
+      "jp": "Taichi Sangoku",
+      "from": "Raimon (Go)",
+      "description": "GK (Fire)",
+      "tier": "B",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/80/IG-01-004.jpg/revision/latest?cb=20130428173844"
+   },
+   "bai_long": {
+      "name": "Bai Long",
+      "jp": "Hakuryu",
+      "from": "Luz Eterna",
+      "description": "FW (Wind)",
+      "tier": "S+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/89/AS02-CP5.png/revision/latest/scale-to-width-down/250?cb=20190905032813"
+   },
+   "tezcat": {
+      "name": "Tezcat",
+      "jp": "Shu",
+      "from": "Oscuridad Ancestral",
+      "description": "FW (Wood)",
+      "tier": "S-",
+      "url": "https://pbs.twimg.com/media/EJZppb5WsAEdjZS.jpg"
+   },
+   "simeon_ayp": {
+      "name": "Simeon Ayp",
+      "jp": "Saryu Evan",
+      "from": "Ragnah",
+      "description": "FW (Earth)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/236x/e2/ec/cf/e2eccf88482bde0d7ecfb42a47a0adfc--comic-book.jpg"
+   },
+   "fei_rune": {
+      "name": "Fei Rune",
+      "jp": "Fei Rune",
+      "from": "Nu-Gen",
+      "description": "FW (Wood)",
+      "tier": "A+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/22/IG-07-001.png/revision/latest?cb=20160502121907"
+   },
+   "gamma": {
+      "name": "Gamma",
+      "jp": "Gamma",
+      "from": "Protocolo Omega",
+      "description": "FW (Wood)",
+      "tier": "A+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/bf/IG-12-046.PNG/revision/latest?cb=20130428104233"
+   },
+   "beta": {
+      "name": "Beta",
+      "jp": "Beta",
+      "from": "Protocolo Omega",
+      "description": "FW (Wind)",
+      "tier": "A",
+      "url": "https://static.wikia.nocookie.net/inazuma/images/f/f8/TCG_91.png/revision/latest?cb=20151030213111&path-prefix=es"
+   },
+   "alpha": {
+      "name": "Alpha",
+      "jp": "Alpha",
+      "from": "Protocolo Omega",
+      "description": "FW (Fire)",
+      "tier": "A-",
+      "url": "https://static.wikia.nocookie.net/inazuma/images/8/8b/TCG_241.png/revision/latest?cb=20151011142325&path-prefix=es"
+   },
+   "terry_archibald": {
+      "name": "Terry Archibald",
+      "jp": "Munemasa Ibuki",
+      "from": "Inazuma Japón (Galaxy)",
+      "description": "GK (Wind)",
+      "tier": "A-",
+      "url": "https://static.wikia.nocookie.net/inazuma/images/9/92/Ibuki%28IG-14%29.jpg/revision/latest?cb=20151011133739&path-prefix=es"
+   },
+   "cerise_blossom": {
+      "name": "Cerise Blossom",
+      "jp": "Sakura Nozaki",
+      "from": "Inazuma Japón (Galaxy)",
+      "description": "CM (Wind)",
+      "tier": "C-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven-tcg/images/d/d9/Nozaki%28Galaxy%29.jpg/revision/latest?cb=20130623091745"
+   },
+   "basile_hardy": {
+      "name": "Basile Hardy",
+      "jp": "Kozoumaru Sasuke",
+      "from": "Raimon (Ares)",
+      "description": "FW (Fire)",
+      "tier": "S+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/62/AS05-49.png/revision/latest/scale-to-width-down/250?cb=20200716104658"
+   },
+   "sonny_wright": {
+      "name": "Sonny Wright",
+      "jp": "Asuto Inamori",
+      "from": "Raimon (Ares)",
+      "description": "FW (Fire)",
+      "tier": "A+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8e/DB02-CP1.png/revision/latest/scale-to-width-down/250?cb=20190118154310"
+   },
+   "valentin_eisner": {
+      "name": "Valentin Eisner",
+      "jp": "Hiura Kirina",
+      "from": "Raimon (Ares)",
+      "description": "CM (Wind)",
+      "tier": "B+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/15/DB02-40.png/revision/latest/scale-to-width-down/250?cb=20190125073519"
+   },
+   "cliff_parker": {
+      "name": "Cliff Parker",
+      "jp": "Iwato Takashi",
+      "from": "Raimon (Ares)",
+      "description": "DF (Earth)",
+      "tier": "B+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b1/DB03-41.png/revision/latest/scale-to-width-down/250?cb=20190412040517"
+   },
+   "adriano_donati": {
+      "name": "Adriano Donati",
+      "jp": "Goujin Tetsunosuke",
+      "from": "Raimon (Ares)",
+      "description": "FW (Fire)",
+      "tier": "B",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/cb/AS01-37.png/revision/latest/scale-to-width-down/250?cb=20190718031125"
+   },
+   "nino_nango": {
+      "name": "Nino Nango",
+      "jp": "Hattori Hanta",
+      "from": "Raimon (Ares)",
+      "description": "CM (Wood)",
+      "tier": "B-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6a/Hattori_AC0_C.png/revision/latest/scale-to-width-down/250?cb=20181215001637"
+   },
+   "maxime_dassier": {
+      "name": "Maxime Dassier",
+      "jp": "Michinari Tatsumi",
+      "from": "Raimon (Ares)",
+      "description": "CM (Wood)",
+      "tier": "C+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e6/DB04-42.png/revision/latest/scale-to-width-down/250?cb=20190523040921"
+   },
+   "kiko_calavento": {
+      "name": "Kiko Calavento",
+      "jp": "Hiyori Masakatsu",
+      "from": "Raimon (Ares)",
+      "description": "DF (Wood)",
+      "tier": "C",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1e/Hiyori_AC0_C.png/revision/latest/scale-to-width-down/250?cb=20181215011217"
+   },
+   "trevor_cook": {
+      "name": "Trevor Cook",
+      "jp": "Mansaku Yuichiro",
+      "from": "Raimon (Ares)",
+      "description": "DF (Wind)",
+      "tier": "C",
+      "url": "https://i.pinimg.com/474x/ab/b0/b1/abb0b1fbd63667c3fdc60456c27ce744.jpg"
+   },
+   "sandra_fischer": {
+      "name": "Sandra Fischer",
+      "jp": "Norika Umihara",
+      "from": "Raimon (Ares)",
+      "description": "GK (Wind)",
+      "tier": "C-",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ef/Norika_AC0_C.png/revision/latest/scale-to-width-down/250?cb=20181215011338"
+   },
+   "cesar_montalban": {
+      "name": "César Montalbán",
+      "jp": "Okuiri Hiro",
+      "from": "Raimon (Ares)",
+      "description": "CM (Earth)",
+      "tier": "D",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/49/EP-01-010.png/revision/latest/scale-to-width-down/250?cb=20180525141659"
+   },
+   "marvin_murdock": {
+      "name": "Marvin Murdock",
+      "jp": "Masaru Mukata",
+      "from": "Instituto Kirkwood",
+      "description": "FW (Fire)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/474x/79/69/b6/7969b61576b86cac126af6380ab34e54.jpg"
+   },
+   "tyler_murdock": {
+      "name": "Tyler Murdock",
+      "jp": "Tsutomu Mukata",
+      "from": "Instituto Kirkwood",
+      "description": "FW (Earth)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/474x/d2/48/20/d24820d97ca926bdc9fa7090d153fdea.jpg"
+   },
+   "thomas_murdock": {
+      "name": "Thomas Murdock",
+      "jp": "Tomo Mukata",
+      "from": "Instituto Kirkwood",
+      "description": "FW (Wind)",
+      "tier": "A",
+      "url": "https://i.pinimg.com/474x/0b/63/d8/0b63d8a1be62168193ec5ea8dc85a9f5.jpg"
+   },
+   "elliot_ember": {
+      "name": "Elliot Ember",
+      "jp": "Ryohei Haizaki",
+      "from": "Academia Polaris",
+      "description": "FW (Wood)",
+      "tier": "S+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/96/AS04-49.png/revision/latest/scale-to-width-down/250?cb=20200319020158"
+   },
+   "acker_reese": {
+      "name": "Acker Reese",
+      "jp": "Seiryu Mizukamiya",
+      "from": "Academia Polaris",
+      "description": "DF (Wind)",
+      "tier": "A+",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f8/AS03-36.png/revision/latest/scale-to-width-down/250?cb=20191213111845"
+   },
+   "eddy_o_ryan": {
+      "name": "Eddy O'Ryan",
+      "jp": "Fuyuki Orio",
+      "from": "Academia Polaris",
+      "description": "CM (Fire)",
+      "tier": "A",
+      "url": "https://64.media.tumblr.com/6819bc9699bb7067f74c3b9d13c40781/tumblr_poeu4viUXn1rkv9cno8_1280.jpg"
+   },
+   
+   "oscar_pio": {
+      "name": "Oscar Pio",
+      "jp": "Eiji Sasotsuka",
+      "from": "Academia Polaris",
+      "description": "CM (Fire)",
+      "tier": "A",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1c/DB03-21.png/revision/latest/scale-to-width-down/250?cb=20190315111516"
+   },
+   "oliver_golightly": {
+      "name": "Oliver Golightly",
+      "jp": "Seiya Saotome",
+      "from": "Academia Polaris",
+      "description": "CM (Wind)",
+      "tier": "D+",
+      "url": "https://i.pinimg.com/originals/ae/de/fa/aedefa6307023bd56843e71a1f87f4f5.png"
+   },
+   "jimmy_nigh": {
+      "name": "Jimmy Nigh",
+      "jp": "Tetsuya Futagotamagawa",
+      "from": "Academia Polaris",
+      "description": "CM (Wind)",
+      "tier": "D",
+      "url": "https://i.pinimg.com/736x/f6/77/25/f677254b84ab8be36c063399f93a52be.jpg"
+   },
+   "caesar_pike": {
+      "name": "Caesar Pike",
+      "jp": "Sameharu Uoshima",
+      "from": "Academia Polaris",
+      "description": "CM (Earth)",
+      "tier": "D",
+      "url": "https://i.pinimg.com/736x/7d/eb/e7/7debe7fc2f1c405cfaa03e84838b643e.jpg"
+   },
+   "larry_lyre": {
+      "name": "Larry Lyre",
+      "jp": "Tomio Kotono",
+      "from": "Academia Polaris",
+      "description": "DF (Fire)",
+      "tier": "D",
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/84/EPD-02-010.png/revision/latest/scale-to-width-down/250?cb=20180525200541"
+   }
+}
